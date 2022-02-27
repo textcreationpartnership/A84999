@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Full satisfaction concerning the affaires of Ireland; as they relate to the Marquesse of Ormonds transactions, with the Lord of Inchiquin. Together, with a cleare demonstration how advantagious the Lord of Inchiquins actings have beene to the Protestant religion, and interest of England. / Impartially delivered from an able hand there, and accordingly faithfully published.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84999</idno>
+            <idno type="STC">Wing F2377</idno>
+            <idno type="STC">Thomason E536_14</idno>
+            <idno type="STC">ESTC R205324</idno>
+            <idno type="EEBO-CITATION">99864733</idno>
+            <idno type="PROQUEST">99864733</idno>
+            <idno type="VID">116965</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84999)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116965)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E536[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Full satisfaction concerning the affaires of Ireland; as they relate to the Marquesse of Ormonds transactions, with the Lord of Inchiquin. Together, with a cleare demonstration how advantagious the Lord of Inchiquins actings have beene to the Protestant religion, and interest of England. / Impartially delivered from an able hand there, and accordingly faithfully published.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the generall satisfaction of such as desire to be truely informed of the proceedings there,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 28.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688.</term>
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116965:1" rendition="simple:additions"/>
+            <p> FULL Satisfaction concerning the Affaires of IRELAND;</p>
+            <p>As they Relate to the Marqueſſe of ORMONDS Tranſactions, with the Lord of INCHIqUIN.</p>
+            <p>Together, with a cleare Demonſtration how advantagious the Lord of <hi>Inchiquins</hi> actings have beene to the Proteſtant Religion, and Intereſt of <hi>England.</hi>
+            </p>
+            <p>Impartially delivered from an able hand there, and accordingly faithfully publiſhed.</p>
+            <figure>
+               <figDesc>person standing beneath tree</figDesc>
+               <p>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </figure>
+            <p>Printed for the Generall Satisfaction of ſuch as deſire to be truely Informed of the Proceedings there. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116965:2"/>
+            <pb facs="tcp:116965:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hough yours to me ſound ſomewhat a tedious paſ<g ref="char:EOLhyphen"/>ſage, yet it had the unuſuall fortune to come ſealed unto my hands. I muſt confeſſe, it did yeeld mee much contentment to ſee your deſires and mine meet ſo happily upon the point of giving and re<g ref="char:EOLhyphen"/>ceiving ſatisfaction. And howbeit, I cannot be<g ref="char:EOLhyphen"/>lieve you declined this Service for any other cauſe but a meer com<g ref="char:EOLhyphen"/>pliance with your friends on that ſide the water; yet I did often deſigne, giving you an accompt of our Proceedings here, to the end, that you might as well poſſeſſe others as your ſelfe, with a right underſtanding thereof; which I had e'r this attempted, but that in ſome things, whereto I had not the happineſſe to be privie, I was myſelfe untill of late a little to ſeeke.</p>
+            <p>I ſhall now very briefly ſumme up our Proceedings, ſince the time the Lord Preſident found it fit to declare his Reſolutions of not adhering unto that Power in the hands of the <hi>Independants,</hi> un<g ref="char:EOLhyphen"/>der which we diſcerned the Parliament to be in ſubjection, whoſe obedience thereunto would have been as inconſiſtent with his du<g ref="char:EOLhyphen"/>tie to God and man, as it was againſt the ſence and conſcience of moſt honeſt men upon the place: The Subordination to which ex<g ref="char:EOLhyphen"/>torted Power, ſpeciouſly onely in the Parliament, but effectually in the <hi>Independants</hi> and Grandees of the Armie, was to tread the paths of violating all manner of publique engagements, &amp; eſpecially that of the Covenant, for maintenance of the Kings Perſon and Rights, and of involving our ſelves in the moſt horrid and deteſta<g ref="char:EOLhyphen"/>ble perjurie that any people could be guiltie of, as the proceſſe of Affaires hath ſince made manifeſt.</p>
+            <p>When therefore it was ſeene, that the Votes of no more Ad<g ref="char:EOLhyphen"/>dreſſes to the King were to be obtruded on us, contrarie to our Nationall Oath, and that there was a neceſſitie of refuſing a com<g ref="char:EOLhyphen"/>pliance therwith, or imbracing perjurie; the firſt thing which fell (and that moſt properly) under conſideration, was, by what ex<g ref="char:EOLhyphen"/>pedient wee might ſubſiſt in the juſtification of our ſelves in our firſt Principles, and engagement for our King, and the genuine Par<g ref="char:EOLhyphen"/>liament of the Kingdome: At which time, being ſhut from all in<g ref="char:EOLhyphen"/>tercourſe with the <hi>Presbyterian</hi> Partee in <hi>England,</hi> the Lord Preſi<g ref="char:EOLhyphen"/>dent,
+<pb facs="tcp:116965:3"/> after ſeverall other diſpatches, imployed a Gentleman ex<g ref="char:EOLhyphen"/>preſſely to the Eſtates of Parliament in <hi>Scotland,</hi> advertiſing his and the Armies Reſolution to adhere to the Obligations upon them by the Covenant, and deſiring the advice and aſſiſtance of the King<g ref="char:EOLhyphen"/>dom, and the <hi>Presbyterian</hi> Partie in <hi>England,</hi> on ſundry particulars, before any Ceſſation or tearmes, other then bare and conjecturall diſcourſes were on foot. By which Gentleman, the Lord Preſident did not onely receive an approbation from the Eſtates of conclu<g ref="char:EOLhyphen"/>ding a Ceſſation with the <hi>Iriſh,</hi> in order to our own ſubſiſtance for oppoſing the <hi>Independant</hi> Faction, but alſo advice for the receiving of the Marqueſſe of <hi>Ormond</hi> as Lord Lieutenant of this Kingdome; whoſe reſort hither could be underſtood to tend to no other deſign, then by his power and intereſt to draw the moſt conſiderable part of the Kingdome (though not for numbers) to a cleare ſubmiſſion unto his Majeſties Authoritie, and to return from their preſent en<g ref="char:EOLhyphen"/>gagements to an obedience under the Crown &amp; intereſt of <hi>England;</hi> what other thing any man could propoſe to himſelf to be expected, I cannot imagine: and undenyably, his comming muſt be either to ſettle an accommodation in the Kingdome, or proſecute a War; and how little of ſence their apprehenſion carryes with it, who will pre<g ref="char:EOLhyphen"/>tend they ſuppoſed he came to aſſiſt us againſt the <hi>Iriſh,</hi> will appear from the conſideration of an impoſſibilitie for us to ſupport a gene<g ref="char:EOLhyphen"/>rall War againſt the Natives here without aſſiſtance from <hi>England,</hi> which it was well knowne wee could not expect to have, but upon the forfeiture of our Faith; and by the acceſſe of the Marqueſſe, our hopes that way were never heightned with more then a promiſe of 10000 <hi>li.</hi> (which was taken afterwards from his Excellencie to an<g ref="char:EOLhyphen"/>ſwer the Princes affaires) wherewith to put this Armie into a con<g ref="char:EOLhyphen"/>dition that might render them not ſo contemptible. But if we might with much reaſon inſiſt upon ſaving conditions for the <hi>Engliſh</hi> Na<g ref="char:EOLhyphen"/>tion and intereſt, and that his Excellencie might have the better ground to lay the foundation of his deſignes upon, the Lord Preſi<g ref="char:EOLhyphen"/>dent had managed the buſineſſe of dividing the Nation, with ſo good judgement and ſucceſſe, that upon the Lord Lieutenants arrivall, the two Factions, for and againſt an obedience to the Crowne of <hi>England,</hi> were growne to an irreconcileable diſtance, teſtified by the frequent exerciſe of hoſtile actions and bloud-ſhed, eſpecially of late at <hi>Ca<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rig Dromrusk,</hi> where <hi>Rory mac Guire,</hi> on the part of <hi>Owen O Neil,</hi> ſtormed that Caſtle, and put all in it to the Sword receiving himſelfe his deaths wound, and leaving moſt of his Regiment dead upon the place, wherein his Lop held the Ballamud: with ſo much e<g ref="char:EOLhyphen"/>qualitie,
+<pb facs="tcp:116965:3"/> ſupporting the weaker Partie againſt the more numerous and pernitious, as by receiving either Partie under protection, he was able to give the Law to the other, &amp; yet to ſecure himſelf againſt both, wherein his Lo. hath comported himſelfe with ſo much pru<g ref="char:EOLhyphen"/>dence &amp; providence, as that it eaſily &amp; evidently appeares, that his Lo, in the conduct &amp; management of that buſineſſe, hath without any aſſiſtance from the Kingdom of <hi>England</hi> done that Nation, and the intereſt of it more Service in one years ſpace then all their Armies, when in the moſt powerful condition, were ever able to do in ſeve<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; for beſides that, his Lo. hath made the Nation inſtrumentall one againſt the other, he hath marched through all quarters of the King<g ref="char:EOLhyphen"/>dom (<hi>Ulſter</hi> only excepted) hath taken in ſeveral conſiderable places, done much execution upon the common Enemy, and forced him to moſt diſhonourable evaſions; ſomtimes by ſlight, by faſtneſſes, &amp; by quartering his Army in places formerly altogether unacquainted with the ſight of an <hi>Engliſh</hi> Troop or Regiment; hath ſo impoveri<g ref="char:EOLhyphen"/>ſhed the Countrey, and anticipated the meanes of providing for any new or old Forces of their owne, as that if any freſh irrupti<g ref="char:EOLhyphen"/>on doe happen, it will be by many degrees more difficult (if not wholly impoſſible) for the <hi>Iriſh</hi> to ſupport an Army againſt us, then it was at the beginning of the Ceſſation; whi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alſo hath bin ef<g ref="char:EOLhyphen"/>fected without any hazard or expoſing the <hi>Engliſh</hi> Intereſt to any probable danger, until <hi>Owen mac Art O Neil,</hi> reſolving to ſubdue that party of the <hi>Iriſh,</hi> who were for a return to his Majeſties obedi<g ref="char:EOLhyphen"/>ence, was marched with a numerous Army unto the confines of this Province; wherein moſt of thoſe that were averſe from his princi<g ref="char:EOLhyphen"/>ples did reſide, which did neceſſitate my Lord to draw forth his Ar<g ref="char:EOLhyphen"/>my, &amp; to face <hi>O Neil</hi> on the Frontiers of <hi>Lynſter,</hi> which was done with ſo much dexterity &amp; advantage, that upon our approach within any convenient diſtance of him<g ref="char:punc">▪</g> he ſtil diſlodged his Camp &amp; flew from us, ſtil giving ground, &amp; loſing ſundry of his men, whenſoe<g ref="char:EOLhyphen"/>ver they lay ſo open that we could poſſibly come at them; &amp; indeed, ſo intent my Lord was upon the purſuit of him, &amp; reducing his In<g ref="char:EOLhyphen"/>tereſt, as that finding he would not be drawn to give him Battaile in any open ground, his Lo. ſate down before Fort <hi>Falkland,</hi> a prin<g ref="char:EOLhyphen"/>cipall Hold of his, which he had lately ſurprized, expecting that if he would do any thing that ſavoured of a Souldier, with ſo numerous an Army, he would come to the reliefe of that place, &amp; accordingly <hi>O Neil</hi> did draw towards us; and by reaſon of my Lords want of knowledge of the ground in that Country, did poſſeſſe himſelfe of a very ſtrong Paſſe betweene us and <hi>Munſter,</hi> &amp; confined us with<g ref="char:EOLhyphen"/>in a nooke of Land, ſo as probably he might have greatly diſtreſſed
+<pb facs="tcp:116965:4"/> us; But the Lord Preſident ſuppoſing that by the acceſſe of ſome late forces he had come to him, was more confident then to ſtick to the ſecurity of a Faſtneſſe, being drawn up ſeverall dayes to give him Battaile; found at length, his deſigne to be the ſtreitning of us for proviſions in that corner: which deſign carried much proba<g ref="char:EOLhyphen"/>bility of taking effect; but was utterly fruſtrated by meanes of con<g ref="char:EOLhyphen"/>ſtant ſupplies which we had out of <hi>Connaught</hi> from the Marqueſſe of <hi>Clanrickard</hi> over the <hi>Shannon,</hi> and by the activity and diligence of a party of five hundred Horſe and Foot, which lay in an out<g ref="char:EOLhyphen"/>ward Garriſon, betwixt <hi>Owen Roe</hi> and <hi>Munſter,</hi> who falling on ſometimes on his reare and flank, &amp; wee Skirmiſhing dayly on the head of his Army, wherein he loſt many Souldiers, and divers prime Officers; his owne deſigne being at length turned upon his owne head, and his Army ſo neceſſitated and diſcouraged, that upon ſome apprehenſion, that wee were reſolved in the morning, having taken in that Fort, to force our paſſage through their Camp and Faſtneſſe, (though wee could have gone orderly over the <hi>Shannon;</hi> for which wee had a competencie of Boates) they roſe over night in great diſorder, and marched, or rather fled away with ſo much affright and ſpeed, as of a rabble of neere ten thouſand men, whereof his Army did conſiſt, he had not two thouſand left the night enſuing: by which diſſipation equall to any defeat, <hi>Owen O Neiles</hi> deſignes of marching into this Province, and of drawing or enforcing the Countrey to riſe with him, and of ſuppreſſing all ſuch of the con<g ref="char:EOLhyphen"/>formable party, who were willing to ſubmit to authority, contra<g ref="char:EOLhyphen"/>ry to his reſolution of alienating the <hi>Engliſh</hi> into a Forraigne Inte<g ref="char:EOLhyphen"/>reſt, were diſappoynted, &amp; this Army preſerved &amp; maintained in an indifferent plentifull condition, chiefly out of their owne quarters, which will be very evidently made appear to be an act of the greateſt advantage to the <hi>Engliſh</hi> Intereſt that was poſſible to be effected.</p>
+            <p>The Ceſſation being in this kind of tranſaction well nigh efflux<g ref="char:EOLhyphen"/>ed, it did neceſſarily fall under conſideration what further correſ<g ref="char:EOLhyphen"/>pondency was to be held with this people, and the impoſſibility of our ſubſiſting by our former quarters, appearing by the experience wee made thereof in the former Ceſſation, and of the poverty of the Country, there could not a more ſolid expedient be propoſed, for preſervation of the <hi>Engliſh</hi> intereſt, then entring upon a Trea<g ref="char:EOLhyphen"/>ty or Capitulation for a Peace with thoſe perſons which had ma<g ref="char:EOLhyphen"/>nifeſted their reall inclinations thereunto, in order to His Maje<g ref="char:EOLhyphen"/>ſties reſtauration, and to render this Kingdom of uſe to that end; who though the more conſiderable party for ſubſiſtance and intereſt, are
+<pb facs="tcp:116965:4"/> yet by much the weaker in reſpect of number; ſo as the ſcandall of our agreement with the whole <hi>Iriſh,</hi> will manifeſt by a ſecluding of <hi>Owen O Neile</hi> and his adherents, in caſe a pacification be agreed upon; againſt which, though I find ſundry perſons doe greatly ex<g ref="char:EOLhyphen"/>cept; yet I doe not find any materiall reaſon whereon ſuch excepti<g ref="char:EOLhyphen"/>on is grounded, unleſſe this may be allowed for one; that hereby wee arme our ſelves againſt being brought under ſubjection to the <hi>Independants;</hi> whom by experience and profeſſion, wee find to be more inveterately imbittered againſt us, then againſt the very <hi>Iriſh,</hi> that now perſiſt in Rebellion, by the more vigorous proſecution of us, then of them; for as it is moſt evident, that by an accommoda<g ref="char:EOLhyphen"/>tion wee ſhall ſettle a more competent and ſatisfactory proviſion for the Army; ſo wee ſhall acquire a more important intereſt in the power of the Kingdome. Wee know our adverſaries, when malice will ſuffer them to be ingenious, doe acknowledge that wee have bin juſtly neceſſitated to what wee have done hitherto by their neg<g ref="char:EOLhyphen"/>lect of us, and for our owne preſervation: and that for theſe reaſons, the Ceſſation was excuſable, and for the ſame reaſons being ſtill un<g ref="char:EOLhyphen"/>der the ſame neglect and neceſſity, wee are conſtrained to imbrace an accommodation: againſt which it may be objected, that hereby inſtead of gaining ground upon the <hi>Iriſh,</hi> we pull the <hi>Engliſh</hi> Inte<g ref="char:EOLhyphen"/>reſt into their hands; which truly, I that am upon the place, am ſo unable to apprehend, that I cannot hardly allow the exception to be ſenſibly framed: wee know already the poverty of the Country in generall, and that if a new warre or deſigne ſhould be undertaken, it muſt be chiefly ſupported by the Townes, (which being put into our hands, as that without which, no pacification can ſucceed) cer<g ref="char:EOLhyphen"/>tainly the power of the Kingdom, at leaſt ſo much as is in the hands of thoſe wee Treate with, devolves fully and clearely to us: It may be alſo alledged, that probably the <hi>Iriſh</hi> will not accept lower con<g ref="char:EOLhyphen"/>ditions then thoſe the Marqueſſe of <hi>Ormond</hi> laſt concluded, where<g ref="char:EOLhyphen"/>in the <hi>Iriſh</hi> had but one particular advantagious Article upon the <hi>Engliſh</hi> which was for a coordination in power with him: whereunto there will now no way be given, nor any accord pitched upon, un<g ref="char:EOLhyphen"/>leſſe the <hi>Iriſh</hi> doe utterly relinquiſh, inſiſting upon that particular, and leave all Authority &amp; Power incommunicable in his Excellen<g ref="char:EOLhyphen"/>cie; ſo as the agreement now, (if any) will be of much leſſe a<g ref="char:EOLhyphen"/>vaile to the <hi>Iriſh,</hi> then the former. Our Churches, beſides a full re<g ref="char:EOLhyphen"/>ſtitution to the <hi>Engliſh</hi> of all their remaining Intereſts, muſt b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> put clearely into our hands, and the very hope of enjoying any thing of that kind, utterly taken away; whereunto may be added, that the
+<pb facs="tcp:116965:5"/> conditions now are ſuch and ſo ſlenderly grounded, as that it is very evident the <hi>Iriſh</hi> (I meane the ſubmitting party) are content to ac<g ref="char:EOLhyphen"/>cept even of the ſhadow of a Peace, to attract the more conſiderable party to a conformity with them; for it cannot be unobſerved by the intelligent part of them, That for the laſt agreement the Marqueſſe made with them, he had for his warrant His Majeſties Commiſſion under the broad Seale of this Kingdome: That His Majeſtie was at that time in a condition hopefull enough to have bin able to juſtifie the Conceſſions which were made unto them: Whereas now it muſt needs be underſtood, that his Authority being derivatory only from the Prince, whatſoever he ſhall conclude muſt be Arbitrary at His Majeſties pleaſure.</p>
+            <p>And therefore, though wee are for the encouragement of thoſe that are capable of advancing our endeavours for His Majeſties ſer<g ref="char:EOLhyphen"/>vice, wee are content to give this tranſaction the name of a Peace; yet it is eſſentially, and in effect, no more then a bare ſubmiſſion of the Power and Intereſt of the Kingdome into our hands; which wee hope wee ſhall not be blameable for receiving, nor that the Tenents of ſome Independants will be ſo ſtrictly held, that it were better in the hands of the <hi>Iriſh</hi> then in ours.</p>
+            <p>Some Factors for the Independants have ſtrangely laboured to beget a high <hi>Odium</hi> and diſtaſte of the proceedings upon this affaire, and had contrived ſeverall wayes for the betraying of the Lord Lieutenant, &amp; the Lo. Preſident into their hands; to prevent whoſe practiſes<g ref="char:punc">▪</g> the Lord Preſident hath bin forced to beſtir himſelfe with a great deale of active reſolution, and reclaimed moſt of the Facti<g ref="char:EOLhyphen"/>on (who were ſeduced) by reaſon; he hath aſſured the reſt of in<g ref="char:EOLhyphen"/>dempnity, upon their promiſe to acquieſſe; ſome whereof are ſo vi<g ref="char:EOLhyphen"/>olently engaged, that it is diſcerned they only recend a little now to attend a fitter opportunity, and with theſe people his Lo. will be obliged to deale in a more particular manner.</p>
+            <p>At the preſent there is onely a renovation of the Ceſſation, no<g ref="char:EOLhyphen"/>thing being either concluded, or any progreſſe made ſo farre to<g ref="char:EOLhyphen"/>wards it, as to anſwer the Propoſition of the <hi>Iriſh;</hi> nay, I dare con<g ref="char:EOLhyphen"/>fidently averre, that their firſt Propoſition being abſolutely rejected, and they adviſed to draw up more moderate and hopefull ones; thoſe Propoſitions are not yet put in: what the reſult will be of theſe ne<g ref="char:EOLhyphen"/>gotiations, I know not; But ſhall advertiſe what I underſtand or obſerve, with all convenient ſpeed.</p>
+            <closer>
+               <dateline>
+                  <hi>Cork,</hi> 
+                  <date>the 30. of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116965:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
